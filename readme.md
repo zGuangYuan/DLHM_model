@@ -1,7 +1,8 @@
+![]()
 Overview
 Deep Learning-Based Heterogeneous Model  for ALN metastases prediction.
 
-1¡¢System requirements:
+1Â¡Â¢System requirements:
 
 Hardware Requirements
 At least NVIDIA GTX 2080Ti
@@ -20,14 +21,14 @@ Pillow 4.0.0
 opencv-python 3.4.0.12
 Scikit-learn 0.20
 
-2¡¢Installation guide:
+2Â¡Â¢Installation guide:
 It is recommended to install the environment in the Ubuntu 16.04 system.
 First install Anconda3.
 Then install CUDA 10.x and cudnn.
 Finall intall these dependent python software library.
 The installation is estimated to take 1 hour, depending on the network environment.
 
-3¡¢Demo:
+3Â¡Â¢Demo:
 
 train model
 python ./utils/train.py 
