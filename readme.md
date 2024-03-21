@@ -1,4 +1,4 @@
-![](https://github.com/PROCESS-Y/Multi-hop-Deep-Network/blob/main/result.gif)
+
 Overview
 Deep Learning-Based Heterogeneous Model  for ALN metastases prediction.
 
