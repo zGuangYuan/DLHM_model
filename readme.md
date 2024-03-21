@@ -1,4 +1,4 @@
-![](http://guangyuan.dsmynas.com:10003/i/2024/03/21/65fb95792a62b.gif)
+![](https://github.com/PROCESS-Y/Multi-hop-Deep-Network/blob/main/result.gif)
 Overview
 Deep Learning-Based Heterogeneous Model  for ALN metastases prediction.
 
